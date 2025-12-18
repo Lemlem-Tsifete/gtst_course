@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "bb1dadd0c79c2af4",
+        "id": "b8d699aeb970fe19",
         "type": "tabs",
         "children": [
           {
-            "id": "9f29b19f75faaa5f",
+            "id": "39203241497b06f3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "e0abe7d974a02c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day2_Introduction_cybersecrity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day2_Introduction_cybersecrity"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "69914baeaed55fb1",
@@ -150,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
+                "file": "README.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
@@ -173,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,11 +207,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac389845ce458296",
+  "active": "abc68194c7a48bfe",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Day1_Introduction.md",
     "README.md",
+    "Day2_Introduction_cybersecrity.md",
+    "Day1_Introduction.md",
+    "Untitled.base",
     "Welcome.md"
   ]
 }
