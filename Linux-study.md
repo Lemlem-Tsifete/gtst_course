@@ -14,6 +14,3 @@ cat use for display the content of the file but using *>* redirect use for want 
 *sed* : to find and replace
 sed command lets you search for occurrences of a word or a text pattern and then perform some action on it 
 
-team , individul , elegance 
-write content with multiple profile 
-digital signture

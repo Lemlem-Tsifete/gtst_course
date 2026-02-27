@@ -59,6 +59,9 @@ A powerful tool for parsing and transforming text line-by-line.
 
 Best for processing **structured data** (columns and rows), such as CSV or log files.
 
+awk by default delimiter is  *space *
+to do -F delimiter notice by this -F and "," '{res += $3}' END {print res}
+
 **Syntax:** `awk 'pattern { action }' file`
 
 - **Example:** To print the first column of a file:
